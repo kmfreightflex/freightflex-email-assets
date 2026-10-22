@@ -1,0 +1,10 @@
+Freight Flex email images — version 1
+Public brand assets only. No invoices, customer records, credentials, or website source.
+
+Keep email/accounting/v1 files available permanently: previously sent emails reference them.
+Publish future revisions under a new version path instead of overwriting old files.
+GitHub Pages source: main branch, repository root.
+Banner: JPEG 1000 x 320; display width 540px or less.
+Logo: transparent PNG 320 x 59; display width 160px.
+Social icons: transparent PNG 44 x 44; display size 22 x 22.
+Hosting does not verify marketing claims or Tai template compatibility.
